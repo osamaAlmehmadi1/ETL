@@ -136,4 +136,4 @@ The script logs the progress of each step in the ETL process to a file named `et
 2024-Jun-24-14:35:42 : Process Complete.
 ```
 
-By following this README, you can set up and run the ETL script to scrape, transform, and load GDP data from a Wikipedia page into both a CSV file and an SQLite database. The script also provides detailed logging of each step for easy tracking and debugging.
+
