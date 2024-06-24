@@ -28,8 +28,8 @@ This project is an ETL (Extract, Transform, Load) process that scrapes GDP data 
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/osamaAlmehmadi1/ETL.git
+    
     ```
 
 1. **Install the required libraries**:
